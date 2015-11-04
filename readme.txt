@@ -3,3 +3,4 @@ Git is free software distributed under GPL.
 Git has mutable index called stage.
 Git tracks changes.
 Git is very very powerful.
+Test git add.
