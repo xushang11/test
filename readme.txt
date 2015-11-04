@@ -6,3 +6,4 @@ Git is very very powerful.
 Test git add.
 Test github remote push.
 This is test for merge.
+This is to test bug stash.
